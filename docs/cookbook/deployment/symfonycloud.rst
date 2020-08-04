@@ -170,7 +170,7 @@ Finish the Sylius installation by running:
 
     You can load the predefined set of Sylius fixtures to try your new store:
 
-    .. code-block:: bash
+.. code-block:: bash
 
     $ symfony ssh bin/console sylius:fixtures:load
 
